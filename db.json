@@ -1,0 +1,31 @@
+{
+  "paquetes" : [
+    {
+        "id": "1",
+        "nombre": "Paquete 1",
+        "set": "Maze of Milenia",
+        "precio": 5000,
+        "cantidad": 9,
+        "descripcion": "Un paquete lleno de cartas poderosas de la serie Maze of Milenia.",
+        "imagen": "/img/paquete.png"
+    },
+    {
+        "id": "2",
+        "nombre": "Paquete 2",
+        "set": "Origins",
+        "precio": 6000,
+        "cantidad": 9,
+        "descripcion": "Paquete de cartas clásicas que han definido el juego.",
+        "imagen": "/img/paquete.png"
+    },
+    {
+        "id": "3",
+        "nombre": "Paquete 3",
+        "set": "Genesis",
+        "precio": 7000,
+        "cantidad": 9,
+        "descripcion": "Paquete de cartas que marca el inicio de una nueva era.",
+        "imagen": "/img/paquete.png"
+    }
+  ]
+}
